@@ -50,12 +50,9 @@ Fique a vontade para sugerir inclusões, alterações ou melhorias neste roadmap
 
 
 ## Referencias
-[Documentação oficial da linguagem](https://www.php.net)
-[Floating Point Guide](https://floating-point-gui.de)
+* [Documentação oficial da linguagem](https://www.php.net).
+* [Floating Point Guide](https://floating-point-gui.de).
 
 
 # Sobre mim
-Adonias Vitorio
-Desenvolvedor Full Stack na [InnovareTI](https://www.innovareti.com.br)
-Fone: (11)9 7550-1525.
-Email: [adonias.vitorio@gmail.com]
+Adonias Vitorio | Desenvolvedor Full Stack na [InnovareTI](https://www.innovareti.com.br) | Cel: (11)9 7550-1525 | Email: adonias.vitorio@gmail.com
