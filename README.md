@@ -54,5 +54,5 @@ Fique a vontade para sugerir inclusões, alterações ou melhorias neste roadmap
 * [Floating Point Guide](https://floating-point-gui.de).
 
 
-# Sobre mim
-Adonias Vitorio | Desenvolvedor Full Stack na [InnovareTI](https://www.innovareti.com.br) | Cel: (11)9 7550-1525 | Email: adonias.vitorio@gmail.com
+# Me Encontre
+Cel: (11)9 7550-1525 | [Twitter](https://twitter.com/AdoniasVitorio) | [LinkedIn](https://www.linkedin.com/in/adoniasvitorio/) | Email: adonias.vitorio@gmail.com
